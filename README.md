@@ -1,2 +1,2 @@
-Zomato Delivery Dashboard 
-A dashboard created using microsoft Excel to analyze orders,revenue,ratings and delivery performance.
+A  Zomato Delivery dashboard created using Microsoft Excel to Analyze orders,Revenue,Ratings and Delivery performance.
+
